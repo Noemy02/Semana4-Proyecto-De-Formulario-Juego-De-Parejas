@@ -14,8 +14,8 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
     {
         Label firstClicked = null;
 
-        // secondClicked points to the second Label control 
-        // that the player clicks
+        // secondClicked apunta al segundo control Label
+        // que el jugador hace clic
         Label secondClicked = null;
 
 
@@ -57,9 +57,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -88,9 +88,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -119,9 +119,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -150,9 +150,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -181,9 +181,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -212,9 +212,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -243,9 +243,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -274,9 +274,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -305,9 +305,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -336,9 +336,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -367,9 +367,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -398,9 +398,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -429,9 +429,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -460,9 +460,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -491,9 +491,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
@@ -522,9 +522,9 @@ namespace Semana4_Proyecto_De_Formulario_Juego_De_Parejas
 
             if (clickedLabel != null)
             {
-                // If the clicked label is black, the player clicked
-                // an icon that's already been revealed --
-                // ignore the click
+                // Si la etiqueta en la que se hizo clic es negra, el jugador hizo clic
+                // un ícono que ya ha sido revelado --
+                // ignora el clic
                 if (clickedLabel.ForeColor == Color.Black)
                     return;
 
